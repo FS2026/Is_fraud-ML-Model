@@ -1,0 +1,4 @@
+pandas>=2.2.2
+numpy>=2.1.0
+torch>=2.5.1+cu124
+sklearn>=1.6.1
