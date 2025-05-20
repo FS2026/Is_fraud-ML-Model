@@ -8,6 +8,6 @@ This project uses PyTorch to detect fraudulent transactions.
 - `requirements.txt`: required dependencies
 - `presentation.pdf`: presentation
 
-## How to run
+## How to run (data files are empty)
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run: `python main.py` (best in Visual Studio Code, GPU required)
